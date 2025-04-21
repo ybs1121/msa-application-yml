@@ -1,0 +1,5 @@
+token:
+  expiration_time: 86400000 # 1day
+  secret: proddevuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserservice
+gateway:
+  ip: 192.168.0.4
