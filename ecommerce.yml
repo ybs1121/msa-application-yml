@@ -1,5 +1,5 @@
 token:
   expiration_time: 86400000 # 1day
-  secret: defaultuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserservice
+  secret: changeuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserserviceuserservice
 gateway:
   ip: 192.168.0.4
